@@ -1,0 +1,3 @@
+# Project exclude paths
+/Node_Session_Auth/backend/node_modules/
+/Node_Session_Auth/backend/session.env
